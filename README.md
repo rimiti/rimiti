@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🤓 Q: Who am I?
-A: Hum.. complicated.. I'm a senior freelance full stack developer, an open source addict, a compulsive coder, the founder of @dimsolution @wefloc @scalinginvestment and the CTO/associate of @tictactrip 
+A: Hum.. complicated.. I'm a senior freelance full stack developer, an open source addict, a compulsive coder, the founder of @dimsolution @wefloc @scalinginvestment, the CTO/associate of @tictactrip and... the Léo's dad 👶 🍼
 
 🦦 Q: How can help you? 
 A: Coding, leading, managing, coaching, crafting, testing, auditing, optimizing...
