@@ -92,7 +92,7 @@ $ whoami
 
 - 🇫🇷 French
 - 🇬🇧 English
-- 🇵🇹 Portugues
+- 🇵🇹 Portuguese
 
 <br />
 
