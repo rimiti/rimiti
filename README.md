@@ -25,8 +25,10 @@
 </a>
 
 <br />
+<br />
+<br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=rimiti)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rimiti)
 
 <br />
 
