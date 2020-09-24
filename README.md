@@ -1,4 +1,4 @@
-## Hi, I'm Dimitri DO BAIRRO, a Compulsive Developer and Entrepreneur from France 🇫🇷 🥖
+## Hi, I'm Dimitri, a Compulsive Developer and Entrepreneur from France 🇫🇷 🥖
 
 <a href="https://www.dimsolution.com">
   <img align="left" alt="Dimitri DO BAIRRO - Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
