@@ -1,4 +1,4 @@
-## Hi, I'm Dimitri DO BAIRRO, a Compulsive Developer and Entrepreneur 🚀 from France 🇫🇷 🥖
+## Hi, I'm Dimitri DO BAIRRO, a Compulsive Developer and Entrepreneur from France 🇫🇷 🥖
 
 <a href="https://www.dimsolution.com">
   <img align="left" alt="Dimitri DO BAIRRO - Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
@@ -26,7 +26,6 @@
 
 <br />
 <br />
-<br />
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rimiti)
 
@@ -36,22 +35,26 @@
 $ whoami
 
 > I'm a Freelance full stack developer & DevOps | Serial entrepreneur 
-                                                │ Javascript and Golang enthusiast
+                                                │ Typescript, Javascript and Golang enthusiast
                                                 │ Open Source addict & Compulsive coder 
-                                                | Open Source lover
                                                 | Founder of @DimSolution @Wefloc @ScalingInvestment
                                                 | CTO @Tictactrip (associate)
+                                                | Léo's dad 
 ```
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+<br />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning something; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dimitridobairro](https://twitter.com/dimitridobairro);
+
+<br />
 
 **Languages and Tools:**  
 
@@ -84,12 +87,18 @@ $ whoami
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 ...
 
+<br />
+
 **Languages:**
 
 - 🇫🇷 French
 - 🇬🇧 English
 - 🇵🇹 Portugues
 
+<br />
+
 <summary>📈 My GitHub Stats</summary>
+
+<br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rimiti&show_icons=true&theme=vue&count_private=true" alt="Dimitri DO BAIRRO" />
