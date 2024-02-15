@@ -36,11 +36,11 @@
 $ whoami
 
 > I'm a Freelance full stack developer & DevOps | Serial entrepreneur 
-                                                │ Typescript, Javascript and Golang enthusiast
+                                                │ Typescript, Javascript, Golang, Kubernetes enthusiast
                                                 │ Open Source addict & Compulsive coder 
-                                                | Founder of @DimSolution @Wefloc @ScalingInvestment
-                                                | CTO @Tictactrip (associate)
-                                                | Léo's dad 
+                                                | Founder of @DimSolution, @Wefloc, @ScalingInvestment, @Yostly
+                                                | CTO @Tictactrip
+                                                | Léo & Roma's dad
 ```
 
 
